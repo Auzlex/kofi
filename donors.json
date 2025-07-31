@@ -1,4 +1,4 @@
 [
-  "Mr.B",
-  "Mr.G"
+  { "name": "Mr.B", "count": 1 },
+  { "name": "Mr.G", "count": 1 }
 ]
