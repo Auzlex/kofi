@@ -4,7 +4,127 @@
     "count": 1
   },
   {
+    "name": "AlexStorm",
+    "count": 1
+  },
+  {
+    "name": "AlphaStriker",
+    "count": 1
+  },
+  {
+    "name": "AmethystStorm",
+    "count": 1
+  },
+  {
+    "name": "AstroKnight",
+    "count": 1
+  },
+  {
+    "name": "AzureKnight",
+    "count": 1
+  },
+  {
     "name": "Ben",
+    "count": 1
+  },
+  {
+    "name": "BetaCrusader",
+    "count": 1
+  },
+  {
+    "name": "BlazeRunner",
+    "count": 1
+  },
+  {
+    "name": "BronzeTalon",
+    "count": 1
+  },
+  {
+    "name": "ChiSpectre",
+    "count": 1
+  },
+  {
+    "name": "CloudRider",
+    "count": 1
+  },
+  {
+    "name": "CobaltWave",
+    "count": 1
+  },
+  {
+    "name": "CometBlaze",
+    "count": 1
+  },
+  {
+    "name": "CopperWraith",
+    "count": 1
+  },
+  {
+    "name": "CosmoWarden",
+    "count": 1
+  },
+  {
+    "name": "CrimsonWolf",
+    "count": 1
+  },
+  {
+    "name": "DaggerFrost",
+    "count": 1
+  },
+  {
+    "name": "DawnBreaker",
+    "count": 1
+  },
+  {
+    "name": "DeltaRogue",
+    "count": 1
+  },
+  {
+    "name": "DiamondClaw",
+    "count": 1
+  },
+  {
+    "name": "DuskRider",
+    "count": 1
+  },
+  {
+    "name": "EclipseHunter",
+    "count": 1
+  },
+  {
+    "name": "EmberKnight",
+    "count": 1
+  },
+  {
+    "name": "EmeraldRider",
+    "count": 1
+  },
+  {
+    "name": "EpsilonWave",
+    "count": 1
+  },
+  {
+    "name": "FrostByte",
+    "count": 1
+  },
+  {
+    "name": "GalaxyRover",
+    "count": 1
+  },
+  {
+    "name": "GaleForce",
+    "count": 1
+  },
+  {
+    "name": "GammaSpear",
+    "count": 1
+  },
+  {
+    "name": "GarnetPhantom",
+    "count": 1
+  },
+  {
+    "name": "GoldRaptor",
     "count": 1
   },
   {
@@ -16,6 +136,26 @@
     "count": 1
   },
   {
+    "name": "IndigoSlayer",
+    "count": 1
+  },
+  {
+    "name": "IotaBlaze",
+    "count": 1
+  },
+  {
+    "name": "IronSpecter",
+    "count": 1
+  },
+  {
+    "name": "IronViper",
+    "count": 1
+  },
+  {
+    "name": "JadeFalcon",
+    "count": 1
+  },
+  {
     "name": "James",
     "count": 1
   },
@@ -24,7 +164,19 @@
     "count": 1
   },
   {
+    "name": "KappaStorm",
+    "count": 1
+  },
+  {
+    "name": "KrypticShadow",
+    "count": 1
+  },
+  {
     "name": "Kyle",
+    "count": 1
+  },
+  {
+    "name": "LambdaShade",
     "count": 1
   },
   {
@@ -32,7 +184,23 @@
     "count": 1
   },
   {
+    "name": "LunarShade",
+    "count": 1
+  },
+  {
+    "name": "LunaStar",
+    "count": 1
+  },
+  {
+    "name": "MeteorRush",
+    "count": 1
+  },
+  {
     "name": "Mike",
+    "count": 1
+  },
+  {
+    "name": "MoonWalker",
     "count": 1
   },
   {
@@ -52,7 +220,119 @@
     "count": 1
   },
   {
+    "name": "MuRaider",
+    "count": 1
+  },
+  {
+    "name": "MysticArrow",
+    "count": 1
+  },
+  {
+    "name": "NebulaVoyage",
+    "count": 1
+  },
+  {
+    "name": "NeonBlaze",
+    "count": 1
+  },
+  {
+    "name": "NightStalker",
+    "count": 1
+  },
+  {
+    "name": "NovaScout",
+    "count": 1
+  },
+  {
+    "name": "NuVanguard",
+    "count": 1
+  },
+  {
+    "name": "ObsidianRift",
+    "count": 1
+  },
+  {
+    "name": "OmegaStrike",
+    "count": 1
+  },
+  {
+    "name": "OmicronPulse",
+    "count": 1
+  },
+  {
+    "name": "OnyxCrusader",
+    "count": 1
+  },
+  {
+    "name": "OpalShadow",
+    "count": 1
+  },
+  {
+    "name": "OrbitSlayer",
+    "count": 1
+  },
+  {
+    "name": "PhantomWraith",
+    "count": 1
+  },
+  {
+    "name": "PhiReaper",
+    "count": 1
+  },
+  {
+    "name": "PiVoyager",
+    "count": 1
+  },
+  {
+    "name": "PlatinumRogue",
+    "count": 1
+  },
+  {
+    "name": "PsiRanger",
+    "count": 1
+  },
+  {
     "name": "PurpleBoiXXX_Extreme",
+    "count": 1
+  },
+  {
+    "name": "QuartzRanger",
+    "count": 1
+  },
+  {
+    "name": "QuartzVortex",
+    "count": 1
+  },
+  {
+    "name": "RavenClaw",
+    "count": 1
+  },
+  {
+    "name": "RhoTitan",
+    "count": 1
+  },
+  {
+    "name": "RubySpear",
+    "count": 1
+  },
+  {
+    "name": "SapphireDrift",
+    "count": 1
+  },
+  {
+    "name": "ShadowReaver",
+    "count": 1
+  },
+  {
+    "name": "SigmaDrift",
+    "count": 1
+  },
+  {
+    "name": "SilverHawk",
+    "count": 1
+  },
+  {
+    "name": "SilverSpecter",
     "count": 1
   },
   {
@@ -61,6 +341,38 @@
   },
   {
     "name": "SkullShotOne",
+    "count": 1
+  },
+  {
+    "name": "SkullShotTwo",
+    "count": 1
+  },
+  {
+    "name": "SkyDrifter",
+    "count": 1
+  },
+  {
+    "name": "SolarFlare",
+    "count": 1
+  },
+  {
+    "name": "StarChaser",
+    "count": 1
+  },
+  {
+    "name": "SteelVortex",
+    "count": 1
+  },
+  {
+    "name": "StellarForge",
+    "count": 1
+  },
+  {
+    "name": "SunStrider",
+    "count": 1
+  },
+  {
+    "name": "TauEclipse",
     "count": 1
   },
   {
@@ -92,79 +404,7 @@
     "count": 1
   },
   {
-    "name": "YellowScreamer",
-    "count": 1
-  },
-  {
-    "name": "AlexStorm",
-    "count": 1
-  },
-  {
-    "name": "BlazeRunner",
-    "count": 1
-  },
-  {
-    "name": "CrimsonWolf",
-    "count": 1
-  },
-  {
-    "name": "DuskRider",
-    "count": 1
-  },
-  {
-    "name": "EmberKnight",
-    "count": 1
-  },
-  {
-    "name": "FrostByte",
-    "count": 1
-  },
-  {
-    "name": "GaleForce",
-    "count": 1
-  },
-  {
-    "name": "IronViper",
-    "count": 1
-  },
-  {
-    "name": "JadeFalcon",
-    "count": 1
-  },
-  {
-    "name": "KrypticShadow",
-    "count": 1
-  },
-  {
-    "name": "LunaStar",
-    "count": 1
-  },
-  {
-    "name": "MysticArrow",
-    "count": 1
-  },
-  {
-    "name": "NeonBlaze",
-    "count": 1
-  },
-  {
-    "name": "ObsidianRift",
-    "count": 1
-  },
-  {
-    "name": "PhantomWraith",
-    "count": 1
-  },
-  {
-    "name": "QuartzVortex",
-    "count": 1
-  },
-  {
-    "name": "RavenClaw",
-    "count": 1
-  },
-  {
-    "name": "SilverSpecter",
+    "name": "ThetaPhantom",
     "count": 1
   },
   {
@@ -172,7 +412,31 @@
     "count": 1
   },
   {
+    "name": "TitaniumBlade",
+    "count": 1
+  },
+  {
+    "name": "TopazBlaze",
+    "count": 1
+  },
+  {
+    "name": "TurquoiseViper",
+    "count": 1
+  },
+  {
+    "name": "UpsilonForge",
+    "count": 1
+  },
+  {
     "name": "VaporTrail",
+    "count": 1
+  },
+  {
+    "name": "VioletReaper",
+    "count": 1
+  },
+  {
+    "name": "VoidWalker",
     "count": 1
   },
   {
@@ -184,275 +448,15 @@
     "count": 1
   },
   {
+    "name": "YellowScreamer",
+    "count": 1
+  },
+  {
     "name": "ZephyrBlade",
     "count": 1
   },
   {
-    "name": "AlphaStriker",
-    "count": 1
-  },
-  {
-    "name": "BetaCrusader",
-    "count": 1
-  },
-  {
-    "name": "GammaSpear",
-    "count": 1
-  },
-  {
-    "name": "DeltaRogue",
-    "count": 1
-  },
-  {
-    "name": "EpsilonWave",
-    "count": 1
-  },
-  {
     "name": "ZetaSpark",
-    "count": 1
-  },
-  {
-    "name": "ThetaPhantom",
-    "count": 1
-  },
-  {
-    "name": "IotaBlaze",
-    "count": 1
-  },
-  {
-    "name": "KappaStorm",
-    "count": 1
-  },
-  {
-    "name": "LambdaShade",
-    "count": 1
-  },
-  {
-    "name": "MuRaider",
-    "count": 1
-  },
-  {
-    "name": "NuVanguard",
-    "count": 1
-  },
-  {
-    "name": "OmicronPulse",
-    "count": 1
-  },
-  {
-    "name": "PiVoyager",
-    "count": 1
-  },
-  {
-    "name": "RhoTitan",
-    "count": 1
-  },
-  {
-    "name": "SigmaDrift",
-    "count": 1
-  },
-  {
-    "name": "TauEclipse",
-    "count": 1
-  },
-  {
-    "name": "UpsilonForge",
-    "count": 1
-  },
-  {
-    "name": "PhiReaper",
-    "count": 1
-  },
-  {
-    "name": "ChiSpectre",
-    "count": 1
-  },
-  {
-    "name": "PsiRanger",
-    "count": 1
-  },
-  {
-    "name": "OmegaStrike",
-    "count": 1
-  },
-  {
-    "name": "StarChaser",
-    "count": 1
-  },
-  {
-    "name": "MoonWalker",
-    "count": 1
-  },
-  {
-    "name": "SkyDrifter",
-    "count": 1
-  },
-  {
-    "name": "CloudRider",
-    "count": 1
-  },
-  {
-    "name": "DawnBreaker",
-    "count": 1
-  },
-  {
-    "name": "NightStalker",
-    "count": 1
-  },
-  {
-    "name": "SunStrider",
-    "count": 1
-  },
-  {
-    "name": "EclipseHunter",
-    "count": 1
-  },
-  {
-    "name": "NovaScout",
-    "count": 1
-  },
-  {
-    "name": "CometBlaze",
-    "count": 1
-  },
-  {
-    "name": "MeteorRush",
-    "count": 1
-  },
-  {
-    "name": "GalaxyRover",
-    "count": 1
-  },
-  {
-    "name": "NebulaVoyage",
-    "count": 1
-  },
-  {
-    "name": "CosmoWarden",
-    "count": 1
-  },
-  {
-    "name": "AstroKnight",
-    "count": 1
-  },
-  {
-    "name": "OrbitSlayer",
-    "count": 1
-  },
-  {
-    "name": "SolarFlare",
-    "count": 1
-  },
-  {
-    "name": "LunarShade",
-    "count": 1
-  },
-  {
-    "name": "StellarForge",
-    "count": 1
-  },
-  {
-    "name": "VoidWalker",
-    "count": 1
-  },
-  {
-    "name": "ShadowReaver",
-    "count": 1
-  },
-  {
-    "name": "DaggerFrost",
-    "count": 1
-  },
-  {
-    "name": "IronSpecter",
-    "count": 1
-  },
-  {
-    "name": "SteelVortex",
-    "count": 1
-  },
-  {
-    "name": "BronzeTalon",
-    "count": 1
-  },
-  {
-    "name": "CopperWraith",
-    "count": 1
-  },
-  {
-    "name": "GoldRaptor",
-    "count": 1
-  },
-  {
-    "name": "SilverHawk",
-    "count": 1
-  },
-  {
-    "name": "PlatinumRogue",
-    "count": 1
-  },
-  {
-    "name": "TitaniumBlade",
-    "count": 1
-  },
-  {
-    "name": "OnyxCrusader",
-    "count": 1
-  },
-  {
-    "name": "SapphireDrift",
-    "count": 1
-  },
-  {
-    "name": "RubySpear",
-    "count": 1
-  },
-  {
-    "name": "EmeraldRider",
-    "count": 1
-  },
-  {
-    "name": "DiamondClaw",
-    "count": 1
-  },
-  {
-    "name": "AmethystStorm",
-    "count": 1
-  },
-  {
-    "name": "TopazBlaze",
-    "count": 1
-  },
-  {
-    "name": "OpalShadow",
-    "count": 1
-  },
-  {
-    "name": "QuartzRanger",
-    "count": 1
-  },
-  {
-    "name": "TurquoiseViper",
-    "count": 1
-  },
-  {
-    "name": "GarnetPhantom",
-    "count": 1
-  },
-  {
-    "name": "CobaltWave",
-    "count": 1
-  },
-  {
-    "name": "AzureKnight",
-    "count": 1
-  },
-  {
-    "name": "IndigoSlayer",
-    "count": 1
-  },
-  {
-    "name": "VioletReaper",
     "count": 1
   }
 ]
