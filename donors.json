@@ -22,5 +22,9 @@
   {
     "name": "TestPerson3",
     "count": 1
+  },
+  {
+    "name": "TestPerson5",
+    "count": 1
   }
 ]
