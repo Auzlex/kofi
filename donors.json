@@ -18,5 +18,9 @@
   {
     "name": "TestPerson2",
     "count": 1
+  },
+  {
+    "name": "TestPerson3",
+    "count": 1
   }
 ]
